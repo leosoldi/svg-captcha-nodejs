@@ -39,3 +39,8 @@ backend-node/
   ├── utils/            ← Limite de requisições
   ├── router.ts         ← Rotas principais
   └── server.ts         ← Inicialização do servidor
+
+✅ Backend (Node.js)
+cd backend-node
+npm install
+npm run dev
